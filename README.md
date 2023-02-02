@@ -26,7 +26,7 @@ https://junnel308.github.io/C1-Horiseon/
 
 ## Credits
 
-Robert Wijtman (Instructor), AskBCS Learning Assistance, Bootcamp Modules, Michael O'Sullivan, Minjoo Park
+UC Berkeley Extension, AskBCS Learning Assistance, Bootcamp Modules, Junnel R. Padilla
 
 ## License
 
