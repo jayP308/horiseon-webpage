@@ -18,7 +18,7 @@ what the company is about and what do they do to help people who wanted to run a
 
 ## URL
 
-https://junnel308.github.io/C1-Horiseon/
+https://jayp308.github.io/horiseon-webpage/
 
 ## Screenshots
 
